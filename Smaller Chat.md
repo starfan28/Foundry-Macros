@@ -3,7 +3,7 @@
 ## Dependencies
 - Foundry 14, build 364
 - D&D5e Game System, version 5.3.3
-- **Custom CSS** *created with Version 2.4.4 [Link](https://foundryvtt.com/packages/custom-css)
+- **Custom CSS** *created with Version 2.4.4* [Link](https://foundryvtt.com/packages/custom-css)
 
 
 ## Code
