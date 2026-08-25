@@ -1,4 +1,4 @@
-# Macro Name
+# Damage or Heal
 A simple macro to apply damage or healing to tokens.
 
 ## Dependencies
