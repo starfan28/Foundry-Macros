@@ -1,4 +1,4 @@
-# Macro Name
+# Condition Toggle
 Select a token and apply conditions. You can select multiple tokens, but the checkboxes for available statuses only look at the first token and the change will override conditions for ALL selected tokens.
 
 The Conditions are pulled from CONFIG.statusEffects so any available conditions in the world appear on the list. There's also a search bar. If a condition is already applied to a token, then it asks if you want to modify or remove the current conditions. You can choose 'modify' and select / deselect conditions to apply them.
